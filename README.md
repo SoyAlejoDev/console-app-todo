@@ -69,4 +69,4 @@ app/
 
 ## Autor
 
-Este proyecto fue desarrollado como una práctica de Node.js y gestión de tareas en consola.
+Este proyecto fue desarrollado como una práctica de Node.js y gestión de tareas en consola
